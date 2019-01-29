@@ -6,4 +6,4 @@ Provided data structure allows for building trees of references to the base clas
 
 Data structure should roughly look like this:
 
-![screenshot1](https://github.com/ImpactOfTesseract/TestTree/TestTree/TreeSerialForTestTask.png)
+![screenshot1](https://github.com/ImpactOfTesseract/TestTree/TreeSerialForTestTask.png)
