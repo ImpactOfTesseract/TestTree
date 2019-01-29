@@ -1,0 +1,10 @@
+#,Integer,1,
+Integer,2011,
+Char[10],FULCRUM  ,
+Char[10],LINUX    ,!
+Integer,7,!
+Char[10],C++      ,!
+Double,3.140000,
+Char[10],TEST     ,!
+Integer,6,!
+Integer,9,!
