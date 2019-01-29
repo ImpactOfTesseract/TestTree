@@ -17,6 +17,6 @@ items. You can append children or delete highlighted items. Application supports
 
 You can find a release version in "TestTree release" folder. It is shipped with "ExampleTree.txt" text file which contains an example of a tree structure built solely with the help of this application.
 
-Warning! This application was not tester on a large set of different systems and it may require additional libraries. I will try to test it on the multitude of different systems as soon as possible and include as much vital libraries as this application may need.
+Warning! This application was not tested on a large set of different systems and it may require additional libraries. I will try to test it on the multitude of different systems as soon as possible and include as much vital libraries as this application may need.
 
 Knowns issues: at this current moment application does not support Cyrillic characters.
