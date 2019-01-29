@@ -15,4 +15,8 @@ Application was written with the help of Qt, which allowed to built a pleasant l
 Application allows for building single or multiple trees at the same time with the help of QTreeWidget, which supports multiple top level
 items. You can append children or delete highlighted items. Application supports serialization to .txt file and deserialization from the .txt file while also handling possible exceptions. 
 
+You can find a release version in "TestTree release" folder. It is shipped with "ExampleTree.txt" text file which contains an example of a tree structure built solely with the help of this application.
+
+Warning! This application was not tester on a large set of different systems and it may require additional libraries. I will try to test it on the multitude of different systems as soon as possible and include as much vital libraries as this application may need.
+
 Knowns issues: at this current moment application does not support Cyrillic characters.
